@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">14 de Febrero</string>
+
+    <string name="text_edtx1">Ingresar Correo</string>
+
+    <string name="text_txtv1">Bienvenido</string>
+    <string name="text_txt2">Salir de la aplicación</string>
+    <string name="text_txt3">Registro de Usuario</string>
+    <string name="text_txt4">Enviale una Carta a Tu Persona Especial</string>
+
+    <string name="text_txt6">Las SONRISAS cuestan menos que la ELECTRICIDAD y dan más LUZ.¿Me REGALAS UNA? (Sonreír es el mejor desestresante que existe. Sonríe más y la vida te devolverá con más luz a tu alrededor)</string>
+    <string name="text_txt7">Coloca tu nombre</string>
+    <string name="text_txt8">Coloca el nombre de la persona</string>
+    <string name="text_txt9">¡¡Feliz 14 de Febrero!!</string>
+
+    <string name="text_10">Su Nombre</string>
+    <string name="text_11">tu Nombre</string>
+
+    <string name="text_btn1">Cancelar</string>
+    <string name="text_btn4">Registrarse</string>
+
+    <string name="button1">Iniciar Sesión</string>
+    <string name="button3">Registrarme</string>
+    <string name="button2">Salir</string>
+    <string name="button4">Especial 14 de febrero</string>
+
+    <string name="button6">Cancelar Saludo</string>
+    <string name="button5">Enviar Saludo</string>
+    <string name="button7">Regresar al Inicio</string>
+
+
+</resources>
